@@ -6,8 +6,6 @@
   <a href="https://x.com/hwang2226"><img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black"/></a>
   <a href="mailto:hwang219@hawk.iit.edu"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
   <a href="https://github.com/wang2226"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
-  <br/>
-  <a href="https://haoranwang18.github.io/">🌐 Website</a>
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/wang2226?style=social)](https://github.com/wang2226)
