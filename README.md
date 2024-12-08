@@ -1,10 +1,6 @@
 <div align="center">
   
 # Hi there 👋, I'm Haoran
-### 3<sup>rd</sup> year Ph.D. candidate
-
-![](https://img.shields.io/badge/Focus-LLM_Safety-BE2EDD)
-![](https://img.shields.io/badge/Role-Phd_Student-20B2AA)
 
 <p>
   <a href="https://x.com/hwang2226"><img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black"/></a>
